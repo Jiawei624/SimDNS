@@ -17,6 +17,8 @@ SimDNS is a **simulated and GAN-augmented dataset** for encrypted DNS traffic re
 - ✅ Evaluated using real-world DoH dataset (CIRA-CIC-DoHBrw-2020)  
 - 📈 **Best cross-dataset classification accuracy: 96.70%**
 
+While ESNI has been officially superseded by ECH, this dataset retains DoH with ESNI traffic to allow comprehensive protocol coverage and enable comparative evaluation.
+
 ---
 
 ## 📁 Dataset Structure
