@@ -46,7 +46,7 @@ SimDNS/
 
 ### Clone
 ```bash
-git clone https://github.com/YourOrg/SimDNS
+git clone https://github.com/Jiawei624/SimDNS
 cd SimDNS
 ```
 
